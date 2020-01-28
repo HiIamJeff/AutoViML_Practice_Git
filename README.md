@@ -10,7 +10,7 @@ The datasets in used are:
 
 Please keep in mind that this package is still undergoing rapid update. I will update the notebook as much as I could. However, if you are interested in the latest thing, please look into the its official Github https://github.com/AutoViML/Auto_ViML.
 
-Feel free to let me know any thought!
-cl3883@columbia.edu
+Feel free to let me know any thought!   
+cl3883@columbia.edu   
 
 Jeff
